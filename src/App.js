@@ -31,7 +31,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>MAGIC CHAT 💫✨🌟🍀</h1>
+        <h1>MAGIC CHAT ✨🌟🍀</h1>
         <SignOut auth={auth}/>
       </header>
       <section>
